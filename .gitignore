@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.env
+.venv/
+marketplace.db
+marketplace-server/marketplace.db
 
 # C extensions
 *.so
